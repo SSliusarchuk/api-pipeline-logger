@@ -27,9 +27,11 @@ git clone https://github.com/your_username/your_repo.git
 cd your_repo
 ```
 2. Установить зависимости
-```bash
-pip install -r requirements.txt
-```
+- requests
+- python-dotenv
+- psycopg2-binary
+- google-api-python-client
+- google-auth
 
 
 3. Создать файл .env в корне проекта с переменными:
