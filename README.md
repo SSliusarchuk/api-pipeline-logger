@@ -65,7 +65,7 @@ RECEIVER_EMAILS=receiver1@example.com,receiver2@example.com
 
 Просто запустите скрипт:
 ```bash
-python main.py
+python mainv.py
 ```
 
 
