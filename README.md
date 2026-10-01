@@ -70,11 +70,11 @@ python mainv.py
 
 The script will automatically:
 
-Create the database table if it does not exist
-Collect data from the API
-Process the received data
-Calculate daily statistics
-Save the data to PostgreSQL
-Upload the statistics to Google Sheets
-Send an email report
-Create logs and remove logs older than 3 days
+- Create the database table if it does not exist
+- Collect data from the API
+- Process the received data
+- Calculate daily statistics
+- Save the data to PostgreSQL
+- Upload the statistics to Google Sheets
+- Send an email report
+- Create logs and remove logs older than 3 days
